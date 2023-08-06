@@ -7,3 +7,6 @@ composer create-project laravel/laravel:10.0 test-app
 
 start app
 php artisan serve
+
+default URL fore Laravel app:
+http://127.0.0.1:8000
